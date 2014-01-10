@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:esb="http:///org/wso2/developerstudio/eclipse/gmf/esb" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_h8NOEXn8EeOj7OzAgO_AUA" type="Esb" name="proxy_sandbox-proxy-example.esb_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_iIqVsHn8EeOj7OzAgO_AUA" type="2001">
+    <children xmi:type="notation:DecorationNode" xmi:id="_iIsK4Hn8EeOj7OzAgO_AUA" type="7001">
+      <children xmi:type="notation:Node" xmi:id="_iU73IHn8EeOj7OzAgO_AUA" type="3001">
+        <children xmi:type="notation:DecorationNode" xmi:id="_iU73JXn8EeOj7OzAgO_AUA" type="5003"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_iU73IXn8EeOj7OzAgO_AUA"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_iU73Inn8EeOj7OzAgO_AUA" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_iU73I3n8EeOj7OzAgO_AUA"/>
+        <element xmi:type="esb:ProxyService" href="proxy_sandbox-proxy-example.esb#//@server/@children.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iU73JHn8EeOj7OzAgO_AUA" width="1000" height="400"/>
+      </children>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_iIqVsXn8EeOj7OzAgO_AUA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_iIqVsnn8EeOj7OzAgO_AUA" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_iIqVs3n8EeOj7OzAgO_AUA"/>
+    <element xmi:type="esb:EsbServer" href="proxy_sandbox-proxy-example.esb#//@server"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iIqVtHn8EeOj7OzAgO_AUA"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_h8NOEnn8EeOj7OzAgO_AUA"/>
+  <element xmi:type="esb:EsbDiagram" href="proxy_sandbox-proxy-example.esb#/"/>
+</notation:Diagram>
