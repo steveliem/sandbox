@@ -5,7 +5,7 @@
   <parent>
     <artifactId>WSO2GitUseCaseProject</artifactId>
     <groupId>com.yenlo.wso2git.usecase</groupId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <relativePath>..\pom.xml</relativePath>
   </parent>
   <groupId>com.yenlo.wso2git.usecase.sandbox-application</groupId>
